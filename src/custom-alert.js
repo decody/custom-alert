@@ -1,5 +1,5 @@
 /**
- * Custom Modal with alert or confirm
+ * selector 
  *
  * @param  {String} selector   "id, class, tag" selector
  * 

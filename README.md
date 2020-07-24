@@ -13,5 +13,6 @@ var modal = new Modal("alert", "이것은 경고창입니다");
 var modal = new Modal("confirm", "이것은 확인창일까요?");
 ```
 
-### Plan
-Support to use ESC and Enter key when modal is removing.
+### Note
+- Support to key event ESC and Enter key when modal is removing.
+- Add unbind event
